@@ -1,5 +1,3 @@
-# ﻿Clapeyron Database File,,,,,,,
-# aspen-NRTL Unlike Parameters
 species1,SMILES1,species2,SMILES2,t0,t1,a0,a1,t2,t3,source,Column12
 methanol,,ethanol,,4.712,-1162.3,0.3,,,,,
 methanol,,benzene,,-1.709,892.2,0.4,,,,,
